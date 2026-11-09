@@ -86,3 +86,7 @@ This project uses the official Google Cardboard XR Plugin and its sample compone
 
 Google Cardboard XR Plugin:
 https://github.com/googlevr/cardboard-xr-plugin
+
+## Project Repository
+
+https://github.com/ImVic0371/VRAR_HW2_Q1
